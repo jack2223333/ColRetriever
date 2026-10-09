@@ -2,12 +2,6 @@
 
 This directory contains the final demo FK-PK column embedding checkpoint.
 
-Source checkpoint:
-
-```text
-colretriever/model/stage2_contrastive/final
-```
-
 Included files:
 
 - `encoder/`: shared encoder for column representations.
