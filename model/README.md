@@ -1,6 +1,6 @@
-# Demo Model
+# Model
 
-This directory contains the final demo FK-PK column embedding checkpoint.
+This directory contains the final FK-PK column embedding checkpoint.
 
 Included files:
 
